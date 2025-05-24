@@ -24,7 +24,7 @@
 ---
 
 ## 📹 Video Demo 1: Giới thiệu tổng quan & vận hành
-👉 [![Video Demo 1](https://img.youtube.com/vi/`VIDEO_ID_1`/0.jpg)](https://www.youtube.com/watch?v=`VIDEO_ID_1`)
+👉 [![Video Demo 1](https://img.youtubefff.com/vi/`VIDEO_ID_1`/0.jpg)](https://www.youtube.com/watch?v=`VIDEO_ID_1`)
 
 ---
 
