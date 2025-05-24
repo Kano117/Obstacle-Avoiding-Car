@@ -3,7 +3,7 @@
 ## Giới thiệu
 
 Đây là đồ án lập trình hệ thống xe tự hành sử dụng mô hình xe Bosch, dành cho mục đích học tập. Xe có khả năng:
-- **Phát hiện vật cản** bằng cảm biến siêu âm (ultrasonic sensors).
+- **Phát hiện vật cản** bằng cảm biến siêu.
 - **Xử lý dữ liệu cảm biến theo thời gian thực** và ra quyết định tránh vật cản.
 - **Điều khiển động cơ** một cách thông minh bằng các thuật toán tự lập trình.
 
