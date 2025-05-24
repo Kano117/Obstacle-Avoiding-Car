@@ -36,9 +36,9 @@
 ## 📁 Cấu trúc thư mục
 
 ```bash
-📦main                            # Dự án xe tự động né vật cản
- ┣ 📂ActuatorNode                 # Điều khiển động cơ, servo 
- ┣ 📂SensorNode                   # Thu thập dữ liệu cảm biến 
- ┣ 📄Lab06_ActuatorNode.bin       # File chạy cho Actuator Node
- ┣ 📄Lab06_SensorNode.bin         # File chạy cho Sensor Node
- ┗ 📄README.md                    # Mô tả dự án         
+📦main                             # Dự án xe tự động né vật cản
+ ┣ 📂ActuatorNode                  # Điều khiển động cơ, servo 
+ ┣ 📂SensorNode                    # Thu thập dữ liệu cảm biến 
+ ┣ 📄Lab06_ActuatorNode.bin        # File chạy cho Actuator Node
+ ┣ 📄Lab06_SensorNode.bin          # File chạy cho Sensor Node
+ ┗ 📄README.md                     # Mô tả dự án         
