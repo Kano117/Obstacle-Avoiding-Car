@@ -24,7 +24,7 @@
 ---
 
 ## 📹 Video Demo 1: Giới thiệu tổng quan & vận hành
-<iframe src="https://drive.google.com/file/d/1v9OQXBf6ikuspwDlL1Kky2d1CrhrFx25/preview" width="640" height="480" allow="autoplay"></iframe>
+👉 [![Video Demo 1]](https://drive.google.com/file/d/1v9OQXBf6ikuspwDlL1Kky2d1CrhrFx25/view?usp=drive_link)
 
 ---
 
