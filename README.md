@@ -1,25 +1,25 @@
-# 🚗 Dự án Xe Tự Động Phát Hiện và Né Vật Cản
+# Dự án Xe Tự Động Phát Hiện và Né Vật Cản
 
-## 🧠 Giới thiệu
+## Giới thiệu
 
 Đây là đồ án lập trình hệ thống xe tự hành sử dụng mô hình xe Bosch, dành cho mục đích học tập. Xe có khả năng:
 - **Phát hiện vật cản** bằng cảm biến siêu âm (ultrasonic sensors).
 - **Xử lý dữ liệu cảm biến theo thời gian thực** và ra quyết định tránh vật cản.
 - **Điều khiển động cơ** một cách thông minh bằng các thuật toán tự lập trình.
 
-📌 **Ngôn ngữ lập trình sử dụng**: C  
-🎯 **Nền tảng**: Mô hình xe giáo dục do Bosch cung cấp
+**Ngôn ngữ lập trình sử dụng**: C  
+**Nền tảng**: Mô hình xe giáo dục do Bosch cung cấp
 
 ---
 
-## 🔧 Công Nghệ Sử Dụng
+## Công Nghệ Sử Dụng
 
-- 🚘 Mô hình xe Bosch (Bosch Educational Vehicle Kit)
-- 📡 Cảm biến siêu âm để phát hiện vật cản
-- 🧠 Vi điều khiển hoặc bộ xử lý trung tâm (MCU)
-- ⚙️ Thuật toán điều khiển động cơ và tránh vật cản bằng ngôn ngữ C
-- 🧮 Xử lý dữ liệu cảm biến thời gian thực
-- 🔄 Logic ra quyết định khi gặp vật cản
+- Mô hình xe Bosch (Bosch Educational Vehicle Kit)
+- Cảm biến siêu âm để phát hiện vật cản
+- Vi điều khiển hoặc bộ xử lý trung tâm (MCU)
+- Thuật toán điều khiển động cơ và tránh vật cản bằng ngôn ngữ C
+- Xử lý dữ liệu cảm biến thời gian thực
+- Logic ra quyết định khi gặp vật cản
 
 ---
 
