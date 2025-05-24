@@ -23,13 +23,13 @@
 
 ---
 
-## 📹 Video Demo 1: Giới thiệu tổng quan & vận hành
+## 📹 Video Demo 1: 
 👉 [![Video Demo 1]](https://drive.google.com/file/d/1v9OQXBf6ikuspwDlL1Kky2d1CrhrFx25/view?usp=drive_link)
 
 ---
 
-## 📹 Video Demo 2: Tình huống né vật cản trong thực tế
-👉 [![Video Demo 2](https://img.youtube.com/vi/`VIDEO_ID_2`/0.jpg)](https://www.youtube.com/watch?v=`VIDEO_ID_2`)
+## 📹 Video Demo 2: 
+👉 [![Video Demo 2]](https://drive.google.com/file/d/17eL64JaBLRLlMKWF38_FmX7BHsPZAvZh/view?usp=drive_link)
 
 ---
 
